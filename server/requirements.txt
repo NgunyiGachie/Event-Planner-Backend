@@ -1,0 +1,7 @@
+SQLAlchemy
+Flask
+Flask-SQLAlchemy
+Flask-Bcrypt
+Flask-Migrate
+Flask-RESTful
+Faker
